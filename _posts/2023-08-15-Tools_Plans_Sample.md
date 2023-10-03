@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: false
+comments: true
 layout: post
 title: Sample Daily Plan 
 description: Example Blog!!!  This shows planning and notes from hacks.
